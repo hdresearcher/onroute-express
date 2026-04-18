@@ -1,0 +1,90 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 Onroute Express Inc. All rights reserved.
+
+NOTICE OF PROPRIETARY RIGHTS
+
+This repository and all of its contents — including but not limited to source
+code, object code, documentation, configuration files, design assets, data
+models, schemas, API specifications, database migrations, and related materials
+(collectively, the "Software") — are the proprietary and confidential property
+of Onroute Express Inc., a corporation organized under the laws of the State
+of Illinois, United States of America (the "Company").
+
+The Software is protected by United States copyright law, trade secret law,
+and applicable international treaties. All rights not expressly granted in
+writing by the Company are reserved.
+
+RESTRICTIONS
+
+No license, express or implied, by estoppel or otherwise, is granted to any
+person or entity to:
+
+  (a) copy, reproduce, or duplicate the Software in whole or in part;
+  (b) modify, adapt, translate, or create derivative works of the Software;
+  (c) distribute, sublicense, sell, rent, lease, lend, or transfer the Software;
+  (d) publicly display, perform, or communicate the Software;
+  (e) reverse engineer, decompile, or disassemble the Software, or otherwise
+      attempt to derive the source code from any compiled form;
+  (f) remove, obscure, or alter any proprietary notices, labels, or marks on
+      or within the Software;
+  (g) use the Software, in whole or in part, for any commercial or non-
+      commercial purpose whatsoever;
+
+except pursuant to a separate written agreement executed by an authorized
+officer of the Company.
+
+CONFIDENTIALITY
+
+The Software constitutes confidential information and trade secrets of the
+Company. Any person or entity that gains access to the Software, whether
+authorized or unauthorized, shall maintain the confidentiality of the Software
+and shall not disclose it to any third party.
+
+NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+COMPANY, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE
+DAMAGES ARISING OUT OF OR RELATING TO THE SOFTWARE OR THIS NOTICE, WHETHER IN
+CONTRACT, TORT, STRICT LIABILITY, OR ANY OTHER LEGAL THEORY, EVEN IF ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGES.
+
+ENFORCEMENT
+
+Unauthorized use, reproduction, modification, or distribution of the Software
+may result in civil and criminal penalties and will be prosecuted to the
+maximum extent permitted by applicable law. The Company reserves all rights,
+remedies, and defenses available to it at law or in equity.
+
+GOVERNING LAW AND JURISDICTION
+
+This notice shall be governed by and construed in accordance with the laws of
+the State of Illinois, United States of America, without regard to its
+conflict-of-laws principles. Any dispute arising out of or relating to the
+Software or this notice shall be subject to the exclusive jurisdiction of the
+state and federal courts located in Cook County, Illinois.
+
+SEVERABILITY
+
+If any provision of this notice is held to be unenforceable, that provision
+shall be modified to the minimum extent necessary to make it enforceable, and
+the remaining provisions shall continue in full force and effect.
+
+CONTACT
+
+For licensing inquiries or to report suspected unauthorized use:
+
+  Onroute Express Inc.
+  5100 N Sheridan Rd, Apt 307, Chicago, IL 60640, USA
+  Email: eugene@onrouteexpress.com or dzmitry@patapav.me
+
+Carrier identification (informational only; not a grant of license):
+  MC Number:    1698829
+  USDOT Number: 4346370
